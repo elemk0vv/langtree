@@ -1,4 +1,4 @@
 langtree
 ========
 
-My researches about a little classification with Freemind
+A mind map about my researches of different programation languages
